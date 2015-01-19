@@ -20,6 +20,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ``` ruby
 def function
-  puts "Hello Monde!"
+  puts "Hello Le Monde!"
 end
 ```
