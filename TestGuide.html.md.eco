@@ -5,7 +5,7 @@ isPage: true
 published: true
 ---
 
-# HEY THERE This is a great guide for the VERY GREAT PAYMILL API
+# HEY DUDE This is a great guide for the VERY GREAT PAYMILL API
 
 
 ![PAYMILL](https://www.paymill.com/files/about/paymill_logo.gif)
@@ -32,5 +32,3 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 ```eco
 <%- @partial('ruby') %>
 ```
-
-And Voilà
