@@ -5,8 +5,7 @@ isPage: true
 published: true
 ---
 
-# GOOD EVENING TAKEOOOOOOOOFF !!!! This is a guide for using that random thing !!!!
-
+# Hey TakeOff Team!!!! This is a guide for using that thing !!!!
 
 
 ![TAKEOFF](https://www.payzen.eu/wp-content/uploads/2014/01/bandeau-takeoffconf.jpg)
@@ -20,7 +19,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 ```eco
 <%- @partial('php') %>
 ```
-
 
 ### RUBY
 ```eco
